@@ -1,2 +1,10 @@
-# antd-mobile-form
-基于 Ant Design Mobile 封装的移动端表单库，通过 JSON Schema 配置快速生成表单页面。
+# Antd Mobile Form
+  基于 Ant Design Mobile 封装的移动端表单库，通过 JSON Schema 配置快速生成表单页面。Ï
+
+## ✨ 特性
+- 📦 基于 Ant Design Mobile 二次封装，原子组件能力与交互全面继承
+- ⚙️ 通过 JSON Schema 配置，声明式描述表单结构、组件类型、字段属性、校验规则等
+- 🚀 免去手写组件和字段绑定，提升开发效率
+- 🧩 支持常见的表单模式，例如新建、编辑、详情等场景
+- 🔄 提供表单和字段级别的钩子，便于灵活扩展业务逻辑
+
